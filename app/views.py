@@ -1,3 +1,4 @@
+from app import app
 @app.route('/news/<int:news_id>')
 def news(news_id):
 
