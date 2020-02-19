@@ -1,4 +1,4 @@
-from flask import Flask
+ffrom flask import Flask
 
 # Initializing application
 app = Flask(__name__)

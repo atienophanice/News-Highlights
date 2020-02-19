@@ -1,1 +1,0 @@
-MOVIE_API_KEY = '<778eb7a6d3a3412bbd240ccc85a9a962>'
